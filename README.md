@@ -7,6 +7,9 @@ Client requested a redesign and implementation of the Event Management System th
 # What is it?
 From their website (https://www.govhack.org/about-us/) GovHack is an open data hackathon, run annually by volunteers, focussed on unlocking the value in open data published by government. It has been run by a team of volunteers and grown from a small data mashup event to an international competition that brings over 3000 people together to innovate, collaborate and apply their creative skills to open government data. GovHack is for coders, designers, story tellers, activists, analysts, journalists and anyone that wants to tap into the vast amount of information made available by governments.
 
+# Screenshots
+You'll find project screenshots within the screenshots directory under main.
+
 # Functionality and included elements.
 - Full UI/UX overhall and redesign.
 - Authenticated/UnAuthenticated User access.
