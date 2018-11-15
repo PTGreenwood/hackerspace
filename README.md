@@ -1,5 +1,5 @@
 # README
-GovHack Hackerspace Event Management System. Built in Ruby on Rails for final semester project. See file TeamMembers for contributors.
+GovHack Hackerspace Event Management System. Built in Ruby on Rails with Postgres for final semester project. See file TeamMembers for contributors.
 
 # Premise
 Client requested a redesign and implementation of the Event Management System that runs the GovHack Events: "Hackerspace".  
@@ -10,6 +10,7 @@ From their website (https://www.govhack.org/about-us/) GovHack is an open data h
 # Functionality and included elements.
 - Full UI/UX overhall and redesign.
 - Authenticated/UnAuthenticated User access.
+- Google Account Integration.
 - Multiple role based permissions/privileges for restricted access.
 - Account Management/Account Creation.
 - Project creation and management.
@@ -24,6 +25,18 @@ From their website (https://www.govhack.org/about-us/) GovHack is an open data h
 # Considerations included in final delivery.
 - System can be usable in future years without clearing data or rehosting.
 - Multi-platform friendly (Mobile/Desktop/Laptop etc).
+
+# 3rd Party libraries, gems, tooling, frameworks, databases used.
+- Bootstrap 4.
+- SCSS.
+- Device (User Management and Authentication) GEM.
+- Postgres Database.
+- jQuery.
+- Carrierwave & mini-magick GEM (Image uploading of avatars).
+- Coffee script.
+- Cancancan (Role based permissions) GEM.
+- Omni-auth-google-oauth2 GEM (for Google Account login).
+- Capybara + Selenium/Chrome-webdriver GEMs (Tests).
 
 # To Run/Install
 * Need to have `docker` and `docker-compose` installed. 
