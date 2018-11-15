@@ -37,7 +37,8 @@ From their website (https://www.govhack.org/about-us/) GovHack is an open data h
 - Cancancan (Role based permissions) GEM.
 - Omni-auth-google-oauth2 GEM (for Google Account login).
 - Capybara + Selenium/Chrome-webdriver GEMs (Tests).
-
+- Docker & Docker-Compose
+-
 # To Run/Install
 * Need to have `docker` and `docker-compose` installed. 
 * Make sure your user is in the docker group, or use sudo if prefered.
